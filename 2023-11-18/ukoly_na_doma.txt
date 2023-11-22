@@ -1,0 +1,14 @@
+//vygenerujte pole 20 nahodnych cisel
+//udelejte var_dump
+
+//napiste funkci, ktera bude brat 1 argument pole, a vrati sumu toho pole (otestuje na vasem poli nahodnych cisel)
+
+//napiste funkci ktera bude brat 1 argument pole a vrati aritmeticky prumer pole (otestuje na vasem poli nahodnych cisel)
+
+//napiste funkci, ktera bude prijimat argument pole a vrati nejvyssi cislo
+//nesmite pouzit max() a nesmite pouzit sort()
+
+//napiste funkci, ktera bude prijimat 1 argument pole a vrati nove pole, kde budou jen suda cisla
+//otestujte na poli nahodnych cisel a var_dumpnete vysledek funkce
+
+//tonda.truong@primakurzy.cz

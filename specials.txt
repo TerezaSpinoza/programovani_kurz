@@ -1,0 +1,7 @@
+# (altgr + x)
+> (altgr + .)
+< (altgr + ,)
+\ (altgr + q)
+$ (altgr + ů)
+{ (altgr + b)
+} (altgr + n)

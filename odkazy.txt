@@ -1,0 +1,11 @@
+#studijni material
+http://kurz.primakurzy.cz/programator/
+
+#odkaz pro stazeni xamppu, ktery vam vytvori na pocitaci virtualni server (slozka C://xampp/htdocs)
+https://www.apachefriends.org/download.html
+
+#xdebug wizard
+https://xdebug.org/wizard
+
+#priorita operatoru
+https://www.php.net/manual/en/language.operators.precedence.php

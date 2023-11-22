@@ -1,0 +1,8 @@
+
+# dalsi uzitecne pluginy, ktere nemuste stahovat staci je v php.ini aktivovat (odstranite strednik za zacatku radku)
+
+extension=gd
+extension=zip
+
+#LOW-LEVEL programing = divame se na programovani do detailu az do urovne procesoru a elektronu
+#HIGH-LEVEL programing = divame se pouze na sytanxi programovaciho jazyka
